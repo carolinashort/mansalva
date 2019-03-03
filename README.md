@@ -1,7 +1,7 @@
-# CarolScripp
+# Mansalva
 Design of an informal handwritten font 
 
-![CarolScripp Intro](https://raw.githubusercontent.com/carolinashort/CarolScripp/master/documentation/imgs/carolscripp%20purple%20text.png)
+![CarolScripp Intro](https://raw.githubusercontent.com/carolinashort/mansalva/master/documentation/imgs/carolscripp%20purple%20text.png)
 
 The aim of this project is to create a handwritten font that can be use for notes and informal text. 
 
