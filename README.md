@@ -1,7 +1,7 @@
 # Mansalva
 Design of an informal handwritten font 
 
-![Sample of Mansalva](https://raw.githubusercontent.com/carolinashort/miyuscules/master/documentation/imgs/Mansalvasample.png)
+![Mansalva Sample](https://raw.githubusercontent.com/carolinashort/mansalva/master/images/Mansalvasample.png)
 
 
 The aim of this project is to create a handwritten font that can be use for notes and informal text. 
@@ -11,5 +11,4 @@ It started as an experiment during idle time, and it turn out as a script with a
 I've included alternates to create the feeling that this is a handwritten font.
 
 
-![Miyuscules Text](https://raw.githubusercontent.com/carolinashort/miyuscules/master/sample.png)
 
