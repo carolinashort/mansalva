@@ -10,5 +10,8 @@ It started as an experiment during idle time, and it turn out as a script with a
 
 I've included alternates to create a more natural handwritting feel.
 
+![Mansalva Sample](https://raw.githubusercontent.com/carolinashort/mansalva/master/imgs/samples/Mansalva%20samples%20100819-03.png)
+
+
 
 
