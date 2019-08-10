@@ -1,5 +1,5 @@
 {
-.appVersion = "1230";
+.appVersion = "1141";
 DisplayStrings = (
 "ª",
 "/arrowright",
@@ -8,7 +8,10 @@ DisplayStrings = (
 "]",
 "[",
 n,
-"/W.alt1"
+"/W.alt1",
+" ",
+" ",
+"/.null"
 );
 classes = (
 {
@@ -40,7 +43,7 @@ code = "space comma\012";
 name = Etc;
 }
 );
-copyright = "Carolina Short 2019. All rights reserved.";
+copyright = "Copyright 2019 Mansalva Project Carolina Short (https://github.com/carolinashort/mansalva)";
 customParameters = (
 {
 name = licenseURL;
@@ -423,11 +426,11 @@ newGlyph.003
 );
 }
 );
-date = "2019-06-18 23:10:53 +0000";
+date = "2019-08-10 08:06:59 +0000";
 designer = "Carolina Short";
 designerURL = "http://bigital.com/";
 disablesNiceNames = 1;
-familyName = XXXMansalva;
+familyName = Mansalva;
 featurePrefixes = (
 {
 code = "lookup lookup_0 {\012sub A by ordfeminine;\012sub O by ordmasculine;\012sub a by ordfeminine;\012sub o by ordmasculine;\012} lookup_0;\012";
@@ -701,16 +704,14 @@ width = 600;
 },
 {
 glyphname = space;
-lastChange = "2019-06-19 03:23:45 +0000";
+lastChange = "2019-08-10 08:04:39 +0000";
 layers = (
 {
 layerId = "D6A4831D-747C-4592-93C0-305F4CD57904";
 width = 250;
 }
 );
-leftKerningGroup = t;
 note = space;
-rightKerningGroup = t;
 unicode = 0020;
 },
 {
@@ -10454,10 +10455,11 @@ unicode = 007E;
 },
 {
 glyphname = uni00A0;
+lastChange = "2019-08-10 08:05:06 +0000";
 layers = (
 {
 layerId = "D6A4831D-747C-4592-93C0-305F4CD57904";
-width = 367;
+width = 250;
 }
 );
 note = uni00A0;
@@ -35633,7 +35635,8 @@ u = -2;
 };
 };
 };
+manufacturerURL = bigital.com;
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
