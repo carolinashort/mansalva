@@ -1,5 +1,5 @@
 # Mansalva
-This project is the creation of an informal handwritten font though to be used for making comments on lectures slides. It is a handwritten font that has a good legibility and can be used with other purposes. It includes a set of alternates for each letter to create a more natural handwritten look.
+This project involves the creation of an informal handwritten font to be used for making comments on lecture slides. It is a handwritten font that has a good legibility and can be used for short notes or with other purposes, as it has a complete set of characters, including some languages support. Mansalva features a set of alternates for each letter to create a more natural handwritten look.
 
 ![Mansalva Sample](https://raw.githubusercontent.com/carolinashort/mansalva/master/documentation/samples/Mansalva%20samples%20100819-11.png)
 
@@ -15,6 +15,6 @@ This version of the font was created using a regular marker. I plan to add more 
 
 ![Mansalva Sample](https://raw.githubusercontent.com/carolinashort/mansalva/master/documentation/samples/Mansalva%20samples%20210819-03.png)
 
-
+Recent updates include some fixes in kerning and additional Māori language support.
 
 
