@@ -17,4 +17,8 @@ This version of the font was created using a regular marker. I plan to add more 
 
 Recent updates include some fixes in kerning and additional Māori language support.
 
+---
+Para más información en español, ver el en directorio /documentation/_Mansalva español_
+![Mansalva Sample](https://github.com/carolinashort/mansalva/blob/master/documentation/_Mansalva%20espa%C3%B1ol_/Mansalva%20breve%20historia.docx)
+
 
