@@ -14,9 +14,8 @@ This version of the font was created using a regular marker. I plan to add more 
 
 ![Mansalva Sample](https://raw.githubusercontent.com/carolinashort/mansalva/master/documentation/samples/Mansalva2021-sample3.png)
 
-Recent updates include 2 sets of alternates, including the numbers, fixes in kerning and additional language support, including Māori (documentation/_Mansalva%20espa%C3%B1ol_/).
+Recent updates include 2 sets of alternates, including the numbers, fixes in kerning and additional language support, including Māori.
 
----
 Para más información en castellano, ver el en directorio /documentation/_Mansalva español_
 ![Mansalva en castellano](https://github.com/carolinashort/mansalva/blob/master/documentation/_Mansalva%20espa%C3%B1ol_/)
 
