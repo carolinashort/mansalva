@@ -137,11 +137,11 @@ I,
 "/etilde",
 "/quoteright",
 "/quoteright.alt1",
-"/apostrophemod",
 "/commaturnedmod",
 Ha,
 "/H.alt1 a",
-"a/H.alt2 a/space Ua/space ho/quoteleft okumu/space/quoteleft ia/space ka/space Hale/space Kuamo/quoteleft o/space e/space ka/space/quoteleft Aha/quoteleft/omacron lelo/space o/space ka/space Moku/quoteleft/amacron ina/space/quoteleft o/space Hawai/quoteleft i/space i/space ka/space makahiki/space 1989./space K/amacron ko/quoteleft o/space a/space paipai/space ka/space Hale/space Kuamo/quoteleft o/space i/space ka/space ho/quoteleft okumu/space/quoteleft ana/space i/space ka/space/quoteleft/omacron lelo/space Hawai/quoteleft i,/space/quoteleft o/space ia/space ka/space/quoteleft/omacron lelo/space kaiapuni/space o/space n/amacron/space kula,/space ke/space aupuni/space a/space me/space n/amacron/space/quoteleft oihana/space like/space/quoteleft ole,/space i/space lohe/space/quoteleft ia/space mai/space ho/quoteleft i/space ka/space/quoteleft/omacron lelo/space Hawai/quoteleft i/space mai/space/quoteleft/omacron/space a/space/quoteleft/omacron/space o/space Hawai/quoteleft i/space Pae/quoteleft/amacron ina/space a/space ma/space waho/space p/umacron/space kekahi./space He/space m/amacron hele/space ka/space Hale/space Kuamo/quoteleft o/space no/space ka/space Haka/space/quoteleft Ula/space O/space Ke/quoteleft elik/omacron lani/space Hawaiian/space Language/space College/space ma/space ke/space Kulanui/space o/space Hawai/quoteleft i/space ma/space Hilo."
+"a/H.alt2 a/space Ua/space ho/quoteleft okumu/space/quoteleft ia/space ka/space Hale/space Kuamo/quoteleft o/space e/space ka/space/quoteleft Aha/quoteleft/omacron lelo/space o/space ka/space Moku/quoteleft/amacron ina/space/quoteleft o/space Hawai/quoteleft i/space i/space ka/space makahiki/space 1989./space K/amacron ko/quoteleft o/space a/space paipai/space ka/space Hale/space Kuamo/quoteleft o/space i/space ka/space ho/quoteleft okumu/space/quoteleft ana/space i/space ka/space/quoteleft/omacron lelo/space Hawai/quoteleft i,/space/quoteleft o/space ia/space ka/space/quoteleft/omacron lelo/space kaiapuni/space o/space n/amacron/space kula,/space ke/space aupuni/space a/space me/space n/amacron/space/quoteleft oihana/space like/space/quoteleft ole,/space i/space lohe/space/quoteleft ia/space mai/space ho/quoteleft i/space ka/space/quoteleft/omacron lelo/space Hawai/quoteleft i/space mai/space/quoteleft/omacron/space a/space/quoteleft/omacron/space o/space Hawai/quoteleft i/space Pae/quoteleft/amacron ina/space a/space ma/space waho/space p/umacron/space kekahi./space He/space m/amacron hele/space ka/space Hale/space Kuamo/quoteleft o/space no/space ka/space Haka/space/quoteleft Ula/space O/space Ke/quoteleft elik/omacron lani/space Hawaiian/space Language/space College/space ma/space ke/space Kulanui/space o/space Hawai/quoteleft i/space ma/space Hilo.",
+PALE
 );
 classes = (
 {
@@ -3715,7 +3715,7 @@ unicode = 0040;
 },
 {
 glyphname = A;
-lastChange = "2020-12-09 22:32:33 +0000";
+lastChange = "2021-01-14 00:51:57 +0000";
 layers = (
 {
 layerId = "D6A4831D-747C-4592-93C0-305F4CD57904";
@@ -54430,6 +54430,7 @@ y = -26;
 "@MMK_R_x" = -26;
 };
 "@MMK_L_P" = {
+"@MMK_R_A" = -70;
 "@MMK_R_e" = -40;
 };
 "@MMK_L_R" = {
