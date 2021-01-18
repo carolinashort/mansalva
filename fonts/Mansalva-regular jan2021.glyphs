@@ -19,7 +19,7 @@ a,
 "ä",
 "ã",
 "å",
-"/a.alt2",
+"ffiflilliiffiil/a.alt2",
 "/a.alt1",
 "/v.alt1",
 "/v.alt2",
@@ -162,7 +162,8 @@ PALE,
 "/fl.liga",
 fltlil,
 "/f.alt1",
-"/f.alt2"
+"/f.alt2",
+"/K.alt1"
 );
 classes = (
 {
@@ -608,16 +609,16 @@ value = (
 },
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 }
 );
 date = "2021-01-15 02:13:19 +0000";
 designer = "Carolina Short";
-designerURL = "http://bigital.com/";
+designerURL = "https://bigital.com/";
 disablesNiceNames = 1;
 familyName = Mansalva;
 featurePrefixes = (
@@ -71021,7 +71022,7 @@ u = -2;
 };
 };
 manufacturer = "Carolina Short";
-manufacturerURL = "http://bigital.com/";
+manufacturerURL = "https://bigital.com/";
 unitsPerEm = 1000;
 versionMajor = 2;
 versionMinor = 0;
