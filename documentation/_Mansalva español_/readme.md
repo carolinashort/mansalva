@@ -1,0 +1,21 @@
+Tipografia manuscrita - Projecto Mansalva
+
+Mansalva es una tipografía manuscrita con buena legibilidad, creada originalmente para agregar notas cortas en presentaciones y bajadas de ejercicios. El nombre Mansalva fue tomado de un párrafo de Don Quijote, en el cual la expresión “a mano salva” es utilizada como “con la mano” (CAPÍTULO LXXIII De los agúeros que tuvo Don Quijote al entrar de su aldea, con otros sucesos que adornan y acreditan esta grande historia).
+ 
+Todo empezó con un marcador rojo, con el cual le hago comentarios a los alumnos sobre sus ejercicios de tipografía. Me gustó como daba la textura al escribir comentarios entre texto impreso. Siempre me pasó con las tipografías manuscritas que cuando son demasiado prolijas, pierden el aura de “escrito a mano”. Esa motivación me llevó a pensar en una versión de una fuente que luciera como hecha a mano, con la impronta de la escritura con un marcador.
+ 
+Empecé con unas pruebas escaneando algunas frases y palabras. Eso me dio un empuje, y durante algunas reuniones aburridas, seguí dibujando caracteres en mi diario. Cuando tuve un set de mayúsculas, lo digitalicé y me gustó el resultado (y viéndolo ahora, creo que me gusta más esa versión que la definitiva). Después seguí con las minúsculas, las agregué, y fui ajustando, ya que en un principio habían quedado un poco chicas comparadas con las mayúsculas.
+ 
+En ese punto, empecé a ver una tipografía que podría funcionar con el objetivo de resaltar algunas partes de las consignas que reciben los alumnos para hacer un ejercicio: “acordate de que los bocetos valen un 40% del trabajo final”, “formato final es A3”, etc. Generé un archivo digital y la empecé a probar. Como quería mantener la frescura de la escritura manual, diseñé dos versiones de caracteres mayúsculas y minúsculas para que funcionaran como alternativos, de modo que si en una palabra o frase se repiten dos letras, las mismas sean diferentes. También le agregué flechas, que son útiles a la hora de resaltar detalles en un texto. Pasaron decenas de versiones hasta que logré un buen resultado en términos de uniformidad, espaciado, creación de todo el set de caracteres para usos en otros idiomas, etc.
+ 
+A medida que avanzaba el proyecto y se iba redondeando y tomando valor, pensé en compartirla y hacerla open source, para que otros la pudieran usar. Y como Google Fonts es un repositorio de tipografías que utilizo frecuentemente y recomiendo a los alumnos, me pareció justo retribuir con una fuente de mi autoría. No sabía en qué me embarcaba, ya que el procedimiento para publicar la tipografía final tiene unos cuantos requisitos, que me tomaron un poco de tiempo y energía. Pero de a poco los fui completando, básicamente durante los fines de semana, y finalmente en Septiembre de este año fue publicada.
+ 
+Durante las primeras semanas, estuvo en la primera página del website. En dos semanas aparecía segunda, después de Roboto. Yo no lo podía creer! Entraba todos los días a ver cuántas veces la habían descargado. El fenómeno de compartir un recurso a nivel mundial tiene efectos inesperados.
+ 
+Que te acepten una tipografía en Google Fonts significa que pasaste cierto filtro, y que tu trabajo tiene validación. Pasa a formar parte del universo de la comunicación, en donde millones de usuarios la tienen como opción para cualquier uso que consideren apropiado. Hay muchísimas tipografías de argentinos en Google Fonts, algunas enormemente famosas como el caso de Montserrat. Muchos diseñadores a quienes admiro distribuyen sus fonts ahí. Acá en la universidad les pareció interesante como historia. A menudo, el trabajo que hacen los docentes no está muy vinculado con el mundo real del diseño. Se hace investigación en diseño, o, en caso de esta carrera que funciona dentro de la facultad de Ciencias informáticas, investigación en áreas vinculadas al diseño. Con suerte este es un primer paso para seguir haciendo proyectos relacionados a esta área del diseño que tanto me gusta. Ya estoy pensando en la versión Mansalva birome.
+ 
+Mansalva se puede descargar a través de Google Fonts, o directamente desde su repositorio en github
+
+![Descargar Mansalva](https://github.com/carolinashort/mansalva)
+ 
+
