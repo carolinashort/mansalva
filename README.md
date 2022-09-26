@@ -12,7 +12,7 @@ Once the project was more advanced, I’ve decided to move onto Glyphs. The fina
 Mansalva gets its name from the Spanish expression _a mano salva_ that originally means “simply with your hand “. Nowadays, the expression _a mansalva_ is used to mean abundance, close range, or without risk. 
 This version of the font was created using a regular marker. I plan to add more styles in the future, using different tools to make some other styles to match a _light_ weight. It is still a work in progress, critique and comments are welcome. 
 
-![Mansalva Sample](/documentation/samples/readme-images-3.png)
+![Mansalva Sample](/documentation/readme-images-3.png)
 
 Recent updates include 2 sets of alternates, 2 sets for numbers, fixes in kerning and additional language support, such as better designed Māori macrons and other Pacifika languages.
 
