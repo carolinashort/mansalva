@@ -8,7 +8,7 @@ I had a copy of FontSelf Maker that I always wanted to try, and it turned out to
 Once the project was more advanced, I decided to move on to Glyphs. The final development of the font, refinement and alternates was developed using Glyphs.
 ![Mansalva Sample](/documentation/readme-images-1.png)
 
-Mansalva gets its name from the Spanish expression _a mano salva_ which originally means “simply with your hand “. Nowadays, the expression _a mansalva_ is used to mean abundance, close range, or without risk. 
+Mansalva gets its name from the Spanish expression _a mano salva_ which originally means “simply with your hand”. Nowadays, the expression _a mansalva_ is used to mean abundance, close range, or without risk. 
 This font was created using a regular marker. I was planning to add more styles in the future, using different tools to make some other styles to match a _light_ weight, but when I tried, the result didn’t look like a variant of Mansalva, so I decided to do a different font, MyNerve. It is still a work in progress; critique and comments are welcome.
 MyNerve:(https://github.com/carolinashort/MyNerve/
 ![Mansalva Sample](/documentation/readme-images-3.png)
