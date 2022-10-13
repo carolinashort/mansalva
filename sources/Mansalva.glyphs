@@ -1,5 +1,5 @@
 {
-.appVersion = "3108";
+.appVersion = "3133";
 .formatVersion = 3;
 DisplayStrings = (
 "ABCDEFGHIJKLMNOPQRSTUVWXYZ
@@ -387,11 +387,11 @@ fontMaster = (
 customParameters = (
 {
 name = typoAscender;
-value = 889;
+value = 1112;
 },
 {
 name = typoDescender;
-value = -200;
+value = -466;
 },
 {
 name = typoLineGap;
@@ -403,15 +403,15 @@ value = 1112;
 },
 {
 name = winDescent;
-value = 466;
+value = 435;
 },
 {
 name = hheaAscender;
-value = 889;
+value = 1112;
 },
 {
 name = hheaDescender;
-value = -200;
+value = -466;
 },
 {
 name = strikeoutPosition;
